@@ -1,0 +1,10 @@
+Rossum's Universal Robots:1921 Karel Capek
+Elektro:1930 Westinghouse Electric Corporation
+Whirlwind:1946 Multiple People
+Elsie and Elmer:1948 William Grey Walter
+Unimate:1956 George Devol
+WABOT:1967 Waseda University
+Famulus:1973 KUKA Robot Group
+IRB:1974 ABB Robot Group
+PUMA:1975 Victor Scheinman
+Freddy:1978 Patricia Ambler and Robin Popplestone
